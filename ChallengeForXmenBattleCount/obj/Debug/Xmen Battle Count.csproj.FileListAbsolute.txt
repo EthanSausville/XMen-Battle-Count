@@ -1,0 +1,7 @@
+C:\Users\Ethan\Documents\My Code\GitHub\Xmen Battle Count\ChallengeForXmenBattleCount\obj\Debug\Xmen Battle Count.csprojResolveAssemblyReference.cache
+C:\Users\Ethan\Documents\My Code\GitHub\Xmen Battle Count\ChallengeForXmenBattleCount\obj\Debug\Xmen Battle Count.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\Documents\My Code\GitHub\Xmen Battle Count\ChallengeForXmenBattleCount\obj\Debug\ChallengeForXmenBattleCount.dll
+C:\Users\Ethan\Documents\My Code\GitHub\Xmen Battle Count\ChallengeForXmenBattleCount\obj\Debug\ChallengeForXmenBattleCount.pdb
+C:\Users\Ethan\Documents\My Code\GitHub\Xmen Battle Count\ChallengeForXmenBattleCount\bin\ChallengeForXmenBattleCount.dll.config
+C:\Users\Ethan\Documents\My Code\GitHub\Xmen Battle Count\ChallengeForXmenBattleCount\bin\ChallengeForXmenBattleCount.dll
+C:\Users\Ethan\Documents\My Code\GitHub\Xmen Battle Count\ChallengeForXmenBattleCount\bin\ChallengeForXmenBattleCount.pdb

@@ -1,0 +1,7 @@
+C:\Users\Ethan\Documents\My Code\GitHub\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\bin\ChallengeForXmenBattleCount.dll.config
+C:\Users\Ethan\Documents\My Code\GitHub\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\bin\ChallengeForXmenBattleCount.dll
+C:\Users\Ethan\Documents\My Code\GitHub\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\bin\ChallengeForXmenBattleCount.pdb
+C:\Users\Ethan\Documents\My Code\GitHub\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\obj\Debug\ChallengeForXmenBattleCount.csprojResolveAssemblyReference.cache
+C:\Users\Ethan\Documents\My Code\GitHub\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\obj\Debug\ChallengeForXmenBattleCount.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\Documents\My Code\GitHub\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\obj\Debug\ChallengeForXmenBattleCount.dll
+C:\Users\Ethan\Documents\My Code\GitHub\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\obj\Debug\ChallengeForXmenBattleCount.pdb
